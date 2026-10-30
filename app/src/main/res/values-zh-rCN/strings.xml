@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="tutorial">教程</string>
+    <string name="slide1_heading">欢迎！</string>
+    <string name="next">下个</string>
 </resources>
